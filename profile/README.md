@@ -4,7 +4,11 @@
 
 |박한백|김정훈|임희정|이상기|김승현|김민정|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|<img alt="박한백" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">|<img alt="김정훈" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">|<img alt="윤희정" src="https://user-images.githubusercontent.com/80394894/215561134-da53fca5-b85c-4d2f-b077-e83a707f3de0.png" height="120" width="120">|<img alt="이상기" src="https://user-images.githubusercontent.com/80394894/215555107-23fa07fe-fe13-4fe2-8c2f-572ba9f3917c.png" height="120" width="120">||<img alt="김승현" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">||<img alt="김민정" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">
+|<img alt="박한백" src="![image](https://github.com/SSCLAS/.github/assets/151505644/c662dba0-e249-413a-be30-a37ab1c31cc8)
+" height="120" width="120">|<img alt="김정훈" src="![image](https://github.com/SSCLAS/.github/assets/151505644/a4870eee-2e60-476b-9418-db9dc0ed4852)
+" height="120" width="120">|<img alt="윤희정" src="https://user-images.githubusercontent.com/80394894/215561134-da53fca5-b85c-4d2f-b077-e83a707f3de0.png" height="120" width="120">|<img alt="이상기" src="![image](https://github.com/SSCLAS/.github/assets/151505644/7daf5bc2-47f4-46c8-bffe-24e9939545e5)
+" height="120" width="120">||<img alt="김승현" src="![image](https://github.com/SSCLAS/.github/assets/151505644/1ebc90f6-52b3-41a1-88fe-a4158929d4e3)
+" height="120" width="120">||<img alt="김민정" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">
 |**조장**|**조원**|**조원**|**조원**|**조원**|**조원**|
 
 ## 서비스 소개
