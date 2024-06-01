@@ -4,7 +4,7 @@
 
 |박한백|김정훈|임희정|이상기|김승현|김민정|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|![image](https://github.com/SSCLAS/.github/assets/151505644/6746bf0d-63e4-4eb9-885d-5489b63c2c1e)|![image](https://github.com/SSCLAS/.github/assets/151505644/6f95a898-00fa-467e-be4b-cd01d981ad08)"|![image](https://github.com/SSCLAS/.github/assets/151505644/dc4a7aea-1e0b-4650-9ce5-05074112a804)|![image](https://github.com/SSCLAS/.github/assets/151505644/2d6c43a5-5ff7-4e75-9557-a32b2ae03563)|![image](https://github.com/SSCLAS/.github/assets/151505644/20883f1e-287d-4835-9fc1-a4fb9f999fcd)|![image](https://github.com/SSCLAS/.github/assets/151505644/d5160583-7576-4f20-bd07-67983acede61)
+|![image](https://github.com/SSCLAS/.github/assets/151505644/6746bf0d-63e4-4eb9-885d-5489b63c2c1e)|![image](https://github.com/SSCLAS/.github/assets/151505644/6f95a898-00fa-467e-be4b-cd01d981ad08)|![image](https://github.com/SSCLAS/.github/assets/151505644/dc4a7aea-1e0b-4650-9ce5-05074112a804)|![image](https://github.com/SSCLAS/.github/assets/151505644/2d6c43a5-5ff7-4e75-9557-a32b2ae03563)|![image](https://github.com/SSCLAS/.github/assets/151505644/20883f1e-287d-4835-9fc1-a4fb9f999fcd)|![image](https://github.com/SSCLAS/.github/assets/151505644/d5160583-7576-4f20-bd07-67983acede61)
 |**조장**|**조원**|**조원**|**조원**|**조원**|**조원**|
 
 ## 서비스 소개
