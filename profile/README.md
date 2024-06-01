@@ -42,7 +42,7 @@
 
 ## 📓 ERD
 
-![SSC 자동화 물류 로봇 erd 다이어그램]
+[SSC 자동화 물류 로봇 erd 다이어그램]
 ![Untitled](https://github.com/SSCLAS/.github/assets/151505644/7c6a3000-a594-4c99-a8a1-fc4552d86353)
 
 
