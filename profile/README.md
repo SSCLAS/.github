@@ -2,16 +2,16 @@
 
 ## 👩🏻‍💻 팀원 소개  
 
-|박한백|김정훈|윤희정|이상기|
-|:---:|:---:|:---:|:---:|
-|<img alt="박한백" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">|<img alt="김정훈" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">|<img alt="윤희정" src="https://user-images.githubusercontent.com/80394894/215561134-da53fca5-b85c-4d2f-b077-e83a707f3de0.png" height="120" width="120">|<img alt="이상기" src="https://user-images.githubusercontent.com/80394894/215555107-23fa07fe-fe13-4fe2-8c2f-572ba9f3917c.png" height="120" width="120">|
-|**조장**|**조원**|**조원**|**조원**|
+|박한백|김정훈|임희정|이상기|김승현|김민정|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img alt="박한백" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">|<img alt="김정훈" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">|<img alt="윤희정" src="https://user-images.githubusercontent.com/80394894/215561134-da53fca5-b85c-4d2f-b077-e83a707f3de0.png" height="120" width="120">|<img alt="이상기" src="https://user-images.githubusercontent.com/80394894/215555107-23fa07fe-fe13-4fe2-8c2f-572ba9f3917c.png" height="120" width="120">||<img alt="김승현" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">||<img alt="김민정" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">
+|**조장**|**조원**|**조원**|**조원**|**조원**|**조원**|
 
-## 🚌 서비스 소개
-- 자율주행 시내버스가 곧 등장할 것으로 예상합니다.
-- 시내버스는 주행 경로가 미리 지정되어 있어 자율주행의 안전성을 비교적 쉽게 높일 수 있기 때문입니다.
-- 자율주행 시내버스가 등장하면 정류장에 정차하기 위한 적절한 시스템이 필요합니다.
-- 최적의 시내버스 운행 방안을 찾기 위해 프로젝트를 시작하게 되었습니다.
+## 서비스 소개
+- 물류창고 자동화 시스템은 물류 산업의 효율성 및 정확성을 극대화 시키기 위해 도입하고자 함
+- 자율주행 자동차 WECAR를 활용한 운송, 카메라를 이용한 제품 인식, DOFBOT JETBOT ARM KIT를 통한 이송 및 지정된 컨테이너로 적재까지를 포함한 자동화 시스템을 구축함
+- 물류창고 자동화 시스템을 도입함으로써 생길 수 있는 여러 긍정적인 효과들이 예상됨.
+
 </br>
 
 ## 🚏 자율주행 시내버스의 정차 시스템 개발 목표
