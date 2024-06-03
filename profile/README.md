@@ -29,9 +29,6 @@
 - 2024.03.04 ~ 2023.06.04
 </br>
 
-## 🔗 배포 링크
--  Demo API : https://port-0-busstoppingsystem-testdeploy-cn1vmr2clp6kovfo.sel5.cloudtype.app/api/
-</br>
 
 ## 📌 기술 스택 및 아키텍처
 
