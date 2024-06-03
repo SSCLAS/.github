@@ -31,12 +31,36 @@
 
 
 ## 📌 기술 스택 및 아키텍처
-![image](https://github.com/SSCLAS/.github/assets/151505644/7024d55e-27c1-429a-bc68-0c340827f289)
-![image](https://github.com/SSCLAS/.github/assets/151505644/53220255-ce2a-4188-bb00-85641724c230)
-![image](https://github.com/SSCLAS/.github/assets/151505644/59f362bd-aaa4-41b7-babf-79526ec9e58d)
+<div align=center><h1>📚 STACKS</h1></div>
 
+<div align=center> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <br>
 
-
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS-#22314E?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <br>
+</div>
 
 
 
