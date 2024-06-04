@@ -66,12 +66,22 @@
 
 
 </br>
+
 </br>
+
 
 
 ## ✨ 서비스 구현
 
 <img width="456" alt="슬라이드2" src="https://github.com/SSCLAS/.github/assets/43005678/f1faf0db-7754-41e5-8c36-bbbac9525903">
+
+### 테스트 맵
+![KakaoTalk_Photo_2024-06-03-23-31-31 004](https://github.com/SSCLAS/.github/assets/43005678/8d06bda2-1aed-4642-9e08-f3979a428513)
+
+
+### SLAM
+![KakaoTalk_Photo_2024-06-03-23-31-30 001](https://github.com/SSCLAS/.github/assets/43005678/7f9a2817-ad02-4da2-a744-44de81acf622)
+
 
 ### 참고적재상태
 ![창고 적재 현황](https://github.com/SSCLAS/.github/assets/43005678/8161285f-2035-4ab3-a690-0359d8ac11c0)
