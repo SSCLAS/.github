@@ -71,23 +71,30 @@
 
 ## ✨ 서비스 구현
 
+<img width="456" alt="슬라이드2" src="https://github.com/SSCLAS/.github/assets/43005678/f1faf0db-7754-41e5-8c36-bbbac9525903">
+
 ### 참고적재상태
+![창고 적재 현황](https://github.com/SSCLAS/.github/assets/43005678/8161285f-2035-4ab3-a690-0359d8ac11c0)
 - 창고 확인, 제품이름 확인, 제품가격 확인, 제품 출고 상태 확인, 출고 지시 기능
 
 ### 제품
+![제품 리스트](https://github.com/SSCLAS/.github/assets/43005678/9dfeaa62-34fe-4947-9981-2d1bfee69daf)
 - 제품 리스트 확인 기능, 제품이름 확인, 제품 제조 날짜 확인, 제품 가격 확인 
 </br>
 
 ### 입고 이력
+![입고 이력](https://github.com/SSCLAS/.github/assets/43005678/c231df54-56e7-4f95-80ea-5e4011e0a72c)
 - 제품이름 확인, 입고 명령 날짜 확인, 입고 진행 상황 확인, 입고 완료 날짜 확인
 
 <br/>
 
 ### 출고 이력
+![창고 출고](https://github.com/SSCLAS/.github/assets/43005678/9456371b-5bc5-49b7-8eb9-6279fe9297e0)
 - 제품이름 확인, 출고 명령 날짜 확인, 출고 진행 상황 확인, 출고 완료 날짜 확인
 <br/>
 
 ### 로봇
+![로봇 목록](https://github.com/SSCLAS/.github/assets/43005678/c4434ae4-0d9e-49a1-9b7b-e7f24bf66db3)
 - 로봇 사진 확인, 로봇 설명 기능
 
 
